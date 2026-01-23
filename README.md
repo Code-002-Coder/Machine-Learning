@@ -8,6 +8,6 @@ First you need streamlit
 pip install streamlit
 
 
-for run this file use this command
+### for run this file use this command
 
 streamlit run app.py
