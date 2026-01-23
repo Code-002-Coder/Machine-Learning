@@ -4,7 +4,9 @@ This project is show your Heart Disease. Input your details and it will give res
 First you need streamlit 
 ## Download streamlit using this command 
 
-'''pip install streamlit'''
+'''py
+pip install streamlit
+'''
 
 for run this file use this command
 
